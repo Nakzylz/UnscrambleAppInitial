@@ -1,4 +1,4 @@
-package com.example.unscramble.ui
+package com.example.unscrambleappinitial.ui
 
 import android.app.Activity
 import androidx.compose.foundation.background
@@ -40,7 +40,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.unscrambleappinitial.R
+import com.example.unscramble.R
 import com.example.unscrambleappinitial.ui.theme.GameViewModel
 import com.example.unscrambleappinitial.ui.theme.UnscrambleTheme
 
